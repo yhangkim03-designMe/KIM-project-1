@@ -32,3 +32,13 @@ The personal portfolio website was successfully
 published using GitHub Pages.
 
 Website: https://yhangkim03-designme.github.io/KIM-project-1/
+
+
+## Project Structure
+
+The project is organized into the following folders and files:
+
+- index.html - Main portfolio webpage
+- styles/ - Contains the CSS stylesheet
+- assets/ - Contains images and other resources
+- README.md - Project documentation
