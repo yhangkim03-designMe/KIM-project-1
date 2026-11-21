@@ -54,3 +54,14 @@ The project is organized into the following folders and files:
 ## Author
 
 Created by Yhang as a Personal Portfolio Website project.
+
+
+## Website Features
+
+- Personal introduction and profile
+- About Me section
+- Skills section
+- Projects section
+- Contact information
+- Responsive portfolio layout
+- Pink and purple glassmorphism design
