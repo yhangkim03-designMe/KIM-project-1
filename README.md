@@ -42,3 +42,15 @@ The project is organized into the following folders and files:
 - styles/ - Contains the CSS stylesheet
 - assets/ - Contains images and other resources
 - README.md - Project documentation
+
+
+## How to View the Website Locally
+
+1. Download or clone this repository.
+2. Open the KIM-project-1 folder.
+3. Locate the index.html file.
+4. Double-click index.html to open the portfolio in your web browser.
+
+## Author
+
+Created by Yhang as a Personal Portfolio Website project.
