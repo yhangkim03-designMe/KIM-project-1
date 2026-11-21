@@ -25,3 +25,10 @@ Hello! I'm Yhang, an Information Technology graduate passionate about technology
 ## Website
 Visit my portfolio:
 https://yhangkim03-designme.github.io/KIM-project-1/
+
+## Deployment
+
+The personal portfolio website was successfully
+published using GitHub Pages.
+
+Website: https://yhangkim03-designme.github.io/KIM-project-1/
